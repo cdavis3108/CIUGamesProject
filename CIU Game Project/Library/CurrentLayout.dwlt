@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 725
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 45
+  controlID: 98
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 46
+  controlID: 99
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 47
+  controlID: 100
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -210,7 +210,7 @@ MonoBehaviour:
   - {fileID: 16}
   - {fileID: 17}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 2
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -397,9 +397,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2e460000
-    m_LastClickedID: 0
-    m_ExpandedIDs: a6affdffd412ffff601affffe4ebffff26edffff86eeffff88efffffa2f0ffff7cf1fffff0fbffff00000000
+    m_SelectedIDs: deaffeff
+    m_LastClickedID: -86050
+    m_ExpandedIDs: f0fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -449,14 +449,14 @@ MonoBehaviour:
     height: 383
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 536.6432285000017
+  lastFramingTime: 10838.785109108063
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 508.2958, y: 4.6019235, z: 14.836771}
+    m_Target: {x: 105.9256, y: 3.9794183, z: 29.118397}
     speed: 2
-    m_Value: {x: 508.2958, y: 4.6019235, z: 14.836771}
+    m_Value: {x: 105.9256, y: 3.9794183, z: 29.118397}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -484,13 +484,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.04668323, y: -0.6214481, z: -0.03713823, w: 0.781181}
+    m_Target: {x: -0.1843574, y: -0.095657624, z: 0.018031564, w: -0.97802705}
     speed: 2
-    m_Value: {x: -0.04668323, y: -0.6214481, z: -0.03713823, w: 0.781181}
+    m_Value: {x: -0.1843574, y: -0.095657624, z: 0.018031564, w: -0.97802705}
   m_Size:
-    m_Target: 10
+    m_Target: 13.7002
     speed: 2
-    m_Value: 10
+    m_Value: 13.7002
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -606,21 +606,21 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets/DownloadedAssets/Decrepit Dungeon LITE/Prefabs/Arches
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/DownloadedAssets/Decrepit Dungeon LITE/Prefabs/Arches
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Kamikaze\Desktop\Unity Projects\CIUGamesProject\CIU
     Game Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 359}
-    m_SelectedIDs: 68100000
-    m_LastClickedID: 4200
-    m_ExpandedIDs: 00000000e00900001a0e00005c0e0000f60e0000800f0000da18000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: d63e0000
+    m_LastClickedID: 16086
+    m_ExpandedIDs: 00000000e2090000200e0000620e0000fc0e0000860f0000f4180000a03e0000de3e000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -648,7 +648,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e0090000
+    m_ExpandedIDs: 00000000e2090000200e0000620e0000fc0e0000860f0000f4180000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
