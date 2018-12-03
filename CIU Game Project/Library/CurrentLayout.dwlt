@@ -106,8 +106,8 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 675
-  m_MinSize: {x: 681, y: 492}
-  m_MaxSize: {x: 14004, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
   controlID: 36
 --- !u!114 &6
@@ -256,8 +256,8 @@ MonoBehaviour:
     y: 0
     width: 318
     height: 675
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -399,7 +399,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: e65afffff0fbffff00000000
+    m_ExpandedIDs: 0c39fffff0fbffff0000000068300000d83c0000026c000098870000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -449,14 +449,14 @@ MonoBehaviour:
     height: 383
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 188.76979297201544
+  lastFramingTime: 2214.0759493720893
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 473.90512, y: 15.679342, z: 408.03842}
+    m_Target: {x: 601.0288, y: 58.46489, z: 483.31198}
     speed: 2
-    m_Value: {x: 473.90512, y: 15.679342, z: 408.03842}
+    m_Value: {x: 601.0288, y: 58.46489, z: 483.31198}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -484,13 +484,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.09743801, y: 0.7912496, z: -0.13082449, w: 0.5893343}
+    m_Target: {x: -0.16428147, y: 0.7841769, z: -0.23388706, w: -0.5507949}
     speed: 2
-    m_Value: {x: 0.09743801, y: 0.7912496, z: -0.13082449, w: 0.5893343}
+    m_Value: {x: -0.16428147, y: 0.7841769, z: -0.23388706, w: -0.5507949}
   m_Size:
-    m_Target: 22.443762
+    m_Target: 44.287018
     speed: 2
-    m_Value: 22.443762
+    m_Value: 44.287018
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -606,21 +606,21 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/DownloadedAssets/V1/Prefab/T1
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/DownloadedAssets/V1/Prefab/T1
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Kamikaze\Desktop\Unity Projects\CIUGamesProject\CIU
     Game Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: e8090000
-    m_LastClickedID: 2536
-    m_ExpandedIDs: 00000000e8090000c00b0000f60d00003a0f0000ca10000086120000fa120000a4130000b01400001817000088180000981800001a220000c8220000242400005824000092250000c425000082270000da270000585c00005a5c00005c5c000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 1543}
+    m_SelectedIDs: a8650000
+    m_LastClickedID: 26024
+    m_ExpandedIDs: 00000000e8090000dc0b0000d80e00006c1000001012000096120000ea13000062140000f4140000241500004a16000080190000061b0000581b0000c61b0000e01f00002a260000022700009227000076280000ae280000042a0000362a0000022d00005c2d0000e06100008c650000c465000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -648,7 +648,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e8090000c00b0000f60d00003a0f0000ca10000086120000fa120000a4130000b01400001817000088180000981800001a220000c8220000242400005824000092250000c425000082270000da270000585c00005a5c00005c5c0000
+    m_ExpandedIDs: 00000000e8090000dc0b0000d80e00006c10000010120000ea13000062140000241500004a16000080190000061b0000581b0000c61b0000e01f00002a2600000227000076280000ae280000042a0000362a0000022d00005c2d0000e0610000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
