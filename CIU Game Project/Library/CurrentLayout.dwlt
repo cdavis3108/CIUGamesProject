@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 725
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -106,10 +106,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 675
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 681, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 43
+  controlID: 36
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -210,7 +210,7 @@ MonoBehaviour:
   - {fileID: 16}
   - {fileID: 17}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 2
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -256,8 +256,8 @@ MonoBehaviour:
     y: 0
     width: 318
     height: 675
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -397,9 +397,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ea2e0000
-    m_LastClickedID: 12010
-    m_ExpandedIDs: f0fbffff00000000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: e65afffff0fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -454,9 +454,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 248.86621, y: 82.01312, z: 531.7209}
+    m_Target: {x: 473.90512, y: 15.679342, z: 408.03842}
     speed: 2
-    m_Value: {x: 248.86621, y: 82.01312, z: 531.7209}
+    m_Value: {x: 473.90512, y: 15.679342, z: 408.03842}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -484,9 +484,9 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.13139042, y: 0.79547495, z: -0.18613485, w: 0.5615248}
+    m_Target: {x: 0.09743801, y: 0.7912496, z: -0.13082449, w: 0.5893343}
     speed: 2
-    m_Value: {x: 0.13139042, y: 0.79547495, z: -0.18613485, w: 0.5615248}
+    m_Value: {x: 0.09743801, y: 0.7912496, z: -0.13082449, w: 0.5893343}
   m_Size:
     m_Target: 22.443762
     speed: 2
@@ -606,21 +606,21 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/DownloadedAssets/Polylised - Medieval Desert City/Prefabs/prefab_civilian_buildings
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/DownloadedAssets/Polylised - Medieval Desert City/Prefabs/prefab_civilian_buildings
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Kamikaze\Desktop\Unity Projects\CIUGamesProject\CIU
     Game Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 343}
-    m_SelectedIDs: bc0f0000
-    m_LastClickedID: 4028
-    m_ExpandedIDs: 00000000e8090000c00b0000f60d00003a0f0000ca10000086120000fa120000a4130000b01400001817000088180000981800001a220000c8220000242400005824000092250000c425000082270000da270000f65a0000f85a0000fa5a000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: e8090000
+    m_LastClickedID: 2536
+    m_ExpandedIDs: 00000000e8090000c00b0000f60d00003a0f0000ca10000086120000fa120000a4130000b01400001817000088180000981800001a220000c8220000242400005824000092250000c425000082270000da270000585c00005a5c00005c5c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -648,7 +648,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e8090000c00b00003a0f000086120000fa120000a4130000b01400001817000088180000981800001a220000242400005824000092250000c425000082270000da270000f65a0000f85a0000fa5a0000
+    m_ExpandedIDs: 00000000e8090000c00b0000f60d00003a0f0000ca10000086120000fa120000a4130000b01400001817000088180000981800001a220000c8220000242400005824000092250000c425000082270000da270000585c00005a5c00005c5c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -700,7 +700,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 1359}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 312
 --- !u!114 &19
