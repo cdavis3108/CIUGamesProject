@@ -399,9 +399,12 @@
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+    <Compile Include="Assets\Scripts\PortalCamera.cs" />
+    <Compile Include="Assets\Scripts\PortalTextureSetup.cs" />
     <Compile Include="Assets\Scripts\SeamlessPortal.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Art\ScreenCutoutShader.shader" />
     <None Include="Assets\DownloadedAssets\Standard Assets\Cameras\CameraGuidelines.txt" />
     <None Include="Assets\DownloadedAssets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\DownloadedAssets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />

@@ -344,6 +344,7 @@
     <Compile Include="C:\Users\Kamikaze\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.standardevents@1.0.13\Editor\Importer.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Art\ScreenCutoutShader.shader" />
     <None Include="Assets\DownloadedAssets\Standard Assets\Cameras\CameraGuidelines.txt" />
     <None Include="Assets\DownloadedAssets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\DownloadedAssets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
